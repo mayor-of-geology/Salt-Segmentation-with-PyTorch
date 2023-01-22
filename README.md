@@ -12,4 +12,4 @@ To predict on any images, run;
 
 ## Example
 
-<img src="./data/pictures/Mask1.png" alt="MarineGEO circle logo" style="height: 100px; width:100px;"/>
+<img src="./data/pictures/Mask1.png" alt="Image Mask"/>
